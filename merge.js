@@ -27,12 +27,12 @@ const regions = {
   "🇹🇼 台湾节点": /台湾|台|Tai\s?Wan|TW|TWN/i,
   "🇯🇵 日本节点": /日本|JP|JPN|Japan|Tokyo/i,
   "🇺🇸 美国节点": /美国|US|USA|United\s?States|America/i,
-  "🇸🇬 狮城节点": /新加坡|SG|SIN|Singapore/i,
+  "🇸🇬 狮城节点": /新加坡|狮城|SG|SIN|Singapore/i,
   "♻️ 香港自动": /香港|HK|Hong\s?Kong/i,
   "♻️ 台湾自动": /台湾|台|Tai\s?Wan|TW|TWN/i,
   "♻️ 日本自动": /日本|JP|JPN|Japan|Tokyo/i,
   "♻️ 美国自动": /美国|US|USA|United\s?States|America/i,
-  "♻️ 狮城自动": /新加坡|SG|SIN|Singapore/i,
+  "♻️ 狮城自动": /新加坡|狮城|SG|SIN|Singapore/i,
 };
 
 // 7. 需要追加节点的 7 个代理分组
